@@ -2,7 +2,7 @@
 
 ## Welcome
 
-It is wonderful to see you here as a member of our trading malitia! Welcome to Rockin Hood
+It is wonderful to see you here as a member of our trading militia! Welcome to Rockin Hood
 
 You must already be a member of our telegram channel to be invited here. And for most everything, if its easiest to discuss it there, then just bring it up there.
 If you have something more complex you want to discusd in detail, then feel free to post a [new issue](https://github.com/christopherreay/noBrainerSupport/issues/new)
