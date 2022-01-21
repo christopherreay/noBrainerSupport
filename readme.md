@@ -1,3 +1,4 @@
 Welcome to the NoBrainer Support Issue Tracker
 
-![noBrainer_chart_shiny](https://user-images.githubusercontent.com/239550/150530201-236f5330-c714-4994-9667-f76d5dc94d25.png)
+
+![noBrainer_chart_shiny](https://user-images.githubusercontent.com/239550/150530498-87911d17-7656-4753-bab3-9aeb31a02660.png)
